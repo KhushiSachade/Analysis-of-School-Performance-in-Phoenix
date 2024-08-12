@@ -2,7 +2,7 @@
 ## Datasets
 
 The project utilizes two datasets:
-1. **Initial Dataset** - Contains information about schools in the Phoenix metropolitan area.
+**Initial Dataset** - Contains information about schools in the Phoenix metropolitan area.
 
 
 ## Data Transformation
