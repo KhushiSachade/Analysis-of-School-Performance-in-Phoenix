@@ -1,7 +1,6 @@
 # Analysis-of-School-Performance-in-Phoenix
 ## Datasets
 
-The project utilizes two datasets:
 **Initial Dataset** - Contains information about schools in the Phoenix metropolitan area.
 
 
